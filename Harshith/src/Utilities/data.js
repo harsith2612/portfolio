@@ -1,0 +1,76 @@
+export const skillList=[
+    {
+        id:101,
+        data:'Java'
+    },
+    {
+        id:102,
+        data:'Angular'
+    },
+    {
+        id:103,
+        data:'React'
+    },
+    {
+        id:104,
+        data:'JavaScript'
+    },
+    {
+        id:105,
+        data:'Node.js'
+    },
+    {
+        id:106,
+        data:'Express'
+    },
+    {
+        id:107,
+        data:'MongoDB'
+    },
+    {
+        id:108,
+        data:'SQL'
+    },
+    {
+        id:109,
+        data:'RESTAPI'
+    },
+    {
+        id:110,
+        data:'HTML'
+    },
+    {
+        id:111,
+        data:'CSS'
+    },
+    {
+        id:112,
+        data:'Git'
+    },
+    {
+        id:113,
+        data:'Tailwindcss'
+    }
+];
+
+export const projectList=[
+    {
+        id:201,
+        name:'  Ventanafoundation',
+        link:'https://ventanafoundation.org/eng',
+        Associate:'99Games'
+    },
+    {
+        id:202,
+        name:'Ladymama',
+        link:'https://ladymama.com/',
+        Associate:'99Games'
+    },
+    {
+        id:203,
+        name:'Starchef2',
+        link:'https://starchef2.com/',
+        Associate:'99Games'
+    },
+
+]
